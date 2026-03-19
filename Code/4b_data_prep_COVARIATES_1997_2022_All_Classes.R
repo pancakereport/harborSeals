@@ -19,7 +19,7 @@ show(MEI)
 
 # 2026-02-06 looks ok
 
-#add human disturbance data 
+#add more human disturbance data 
 HumanDisturbance <- 
   read_excel("Data/HumanDisturbanceRate_1996To2023.xlsx")
 HumanDisturbance <- 
